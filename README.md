@@ -2,18 +2,20 @@
   <a href="https://github.com/vitoramosc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoramosc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoramosc&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png">
-</div>
- 
- <br>
- 
-<div>
 
-  ![Snake animation](https://github.com/vitoramosc/vitoramosc/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
+<br>
+
+### Experiência de trabalho
+
+[<img align="left" height="94px" width="94px" alt="Banco Safra" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpy9nvFrsw3FLqEc_RoyehTef1l3adMQeA2Q&s"/>](https://www.safra.com.br/)
+
+**Junior Systems Analyst** \
+[**Banco Safra**](https://www.safra.com.br/) • Full-time \
+Linguagens & Tecnologias: `Python`, `C#` \
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/vitoramos/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.

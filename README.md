@@ -15,7 +15,7 @@
 
 **Junior Systems Analyst** \
 [**Banco Safra**](https://www.safra.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `C#` \
+Linguagens & Tecnologias: `C#` \
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/vitoramos/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
